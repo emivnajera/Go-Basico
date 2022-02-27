@@ -8,6 +8,7 @@ func main() {
 
 	if valor1 == 1 {
 		fmt.Println("Es 1")
+
 	} else {
 		fmt.Println("No es 1")
 	}
